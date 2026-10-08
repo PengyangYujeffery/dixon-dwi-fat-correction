@@ -3,6 +3,8 @@ message: "Please cite this software when using the correction code."
 type: software
 title: "Dixon-guided fat correction for diffusion MRI"
 version: 1.0.0
+doi: 10.5281/zenodo.23242353
+date-released: 2026-10-08
 authors:
   - family-names: Yu
     given-names: Pengyang

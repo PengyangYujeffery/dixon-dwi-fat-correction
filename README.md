@@ -57,4 +57,5 @@ See [method details](docs/method.md) and [release contents](docs/release_scope.m
 Code: [BSD-3-Clause](LICENSE), copyright Pengyang Yu. This software license does
 not grant access to, or rights over, the collaborators' study data.
 
+Version 1.0.0 is archived on Zenodo: [10.5281/zenodo.23242353](https://doi.org/10.5281/zenodo.23242353).
 For the software citation, see [CITATION.cff](CITATION.cff).
