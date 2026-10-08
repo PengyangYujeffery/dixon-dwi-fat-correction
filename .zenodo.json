@@ -1,0 +1,10 @@
+{
+  "title": "Dixon-guided fat correction for diffusion MRI",
+  "description": "Source code for Dixon-guided residual-fat displacement correction, with artificial-signal demonstration scripts and selected cohort-level summaries. No participant-level data, medical images, anatomical phantoms, or study logs are included.",
+  "upload_type": "software",
+  "creators": [{"name": "Yu, Pengyang"}],
+  "license": "BSD-3-Clause",
+  "access_right": "open",
+  "version": "1.0.0",
+  "keywords": ["diffusion MRI", "Dixon", "fat correction", "chemical shift", "skeletal muscle"]
+}

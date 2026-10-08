@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools==80.9.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dixon-dwi-fat-correction"
+version = "1.0.0"
+description = "Dixon-guided displacement correction for residual fat in diffusion MRI"
+readme = "README.md"
+license = {file = "LICENSE"}
+authors = [{name = "Pengyang Yu"}]
+requires-python = ">=3.11"
+dependencies = ["numpy>=1.24,<3", "scipy>=1.10,<2"]
+
+[project.scripts]
+dixon-fat = "dixon_dwi.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the correction code."
+type: software
+title: "Dixon-guided fat correction for diffusion MRI"
+version: 1.0.0
+authors:
+  - family-names: Yu
+    given-names: Pengyang
+license: BSD-3-Clause
+repository-code: "https://github.com/PengyangYujeffery/dixon-dwi-fat-correction"
